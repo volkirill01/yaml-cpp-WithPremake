@@ -224,11 +224,6 @@
     <ClCompile Include="src\stream.cpp" />
     <ClCompile Include="src\tag.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="LICENSE" />
-    <None Include="README.md" />
-    <None Include="premake5.lua" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

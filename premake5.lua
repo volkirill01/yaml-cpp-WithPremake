@@ -9,10 +9,6 @@ project "yaml-cpp"
 
 	files
 	{
-		"LICENSE",
-		"README.md",
-		"**.lua",
-
 		"src/**.h",
 		"src/**.cpp",
 		
